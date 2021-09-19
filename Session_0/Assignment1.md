@@ -70,15 +70,29 @@ Number of multiplication operations(FLOPs) while convolving using 3X3 kernel is 
  
  ### 4. How are kernels initialized? ###
 ***ANS :***
-Initial weights of the kernel can be initialized using random values, though it is better to use more complex methods like Xavier and MSRA initializations whose values may seem random or arbitrary but they help in faster convergence of the network.
+Weights of the kernel can be initialized using random values, though it is better to use more complex methods like Xavier and MSRA initializations whose values may seem random or arbitrary but they help in faster convergence of the network.
 
 So if your model doesn't converge, you might want to look at your initialization strategies.
+**Why Initialize Weights** <br/>
+The aim of weight initialization is to prevent layer activation outputs from exploding or vanishing during the course of a forward pass through a deep neural network. If either occurs, loss gradients will either be too large or too small to flow backwards beneficially, and the network will take longer to converge if it is even able to do so at all. 
+
+Generally, there are four ways to initialize the weights of the kernels before we start training our neural network.
+  1. Zero initialization
+  2. Random initialization
+  3. Xavier Initialization 
+  4. He-et-al initialization<br/>
 
 Additionally, when we are training pre-trained models for additional data, we load the existing weights i.e. we initialise the kernel values with pre-trained model's kernel values, and then further train the model with new data to further optimize 
 the model (there by update kernel values) for the newly obtained data.
 
 ### 5.What happens during the training of a DNN? ###
 ***ANS :***
+To understand what happens during training a Deep Neural network we should first understand what a deep neural network is made of and how it works. By understanding what happens during the training process of a neural network we are essentially trying to understand how a neural network learns.
+
+<p align ="center">
+  <img  src="Resource/training_nn.gif">			  
+</p>
+
 During training, back propagation is used to train the weights, from output towards the input layers. Loss is calculated based on the difference between the correct output and the model's output, and a loss function is used to calculate the loss. The Loss is used to calculate the gradients. And gradients are used to update the weights of the Deep Neural Network.
 
 Weights (in any layer ) are increased or decreased by looking into the gradient of the succeeding layer by the optimizer.
