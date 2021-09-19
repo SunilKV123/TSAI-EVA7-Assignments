@@ -85,7 +85,7 @@ Generally, there are four ways to initialize the weights of the kernels before w
 Additionally, when we are training pre-trained models for additional data, we load the existing weights i.e. we initialise the kernel values with pre-trained model's kernel values, and then further train the model with new data to further optimize 
 the model (there by update kernel values) for the newly obtained data.
 
-### 5.What happens during the training of a DNN? ###
+### 5. What happens during the training of a DNN? ###
 ***ANS :***
 To understand what happens during training a Deep Neural network we should first understand what a deep neural network is made of and how it works. By understanding what happens during the training process of a neural network we are essentially trying to understand how a neural network learns.
 
