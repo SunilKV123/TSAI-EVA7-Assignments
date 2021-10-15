@@ -1,20 +1,21 @@
 # EVA7 - Assignment 4 #
 1. Write a neural network that can:
-	Take 2 inputs:
-	1. An image from the MNIST dataset (say 5), and
-	2. A random number between 0 and 9, (say 7)
-	and Gives two outputs:
-	1. the "number" that was represented by the MNIST image (predict 5), and
-	2. the "sum" of this number with the random number and the input image to the network (predict 5 + 7 = 12)
-	<p align ="center">
-	  <img  src="resource/assign4.png">			  
-	</p>
+	1. Take 2 inputs:
+		1. An image from the MNIST dataset (say 5), and
+		2. A random number between 0 and 9, (say 7)
+	2. and Gives two outputs:
+		1. the "number" that was represented by the MNIST image (predict 5), and
+		2. the "sum" of this number with the random number and the input image to the network (predict 5 + 7 = 12)
 	3. Can mix fully connected layers and convolution layers
 	4. Can use one-hot encoding to represent the random number input as well as the "summed" output.
 		a. Random number (7) can be represented as 0 0 0 0 0 0 0 1 0 0
 		b. Sum (13) can be represented as:
 			b1. 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
 			b2. 0b1101 (remember that 4 digits in binary can at max represent 15, so we may need to go for 5 digits. i.e. 10010
+	<p align ="center">
+	  <img  src="resource/assign4.png">			  
+	</p>
+
 2. Your code MUST be:
 	1. well documented (via readme file on GitHub and comments in the code)
 	2. must mention the data representation
