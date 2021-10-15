@@ -88,8 +88,8 @@ Training Epoch: 7 [20/59]	Loss: 2.7439	LR: 0.010000
 Training Epoch: 7 [30/59]	Loss: 2.7250	LR: 0.010000
 Training Epoch: 7 [40/59]	Loss: 2.6828	LR: 0.010000
 Training Epoch: 7 [50/59]	Loss: 2.7061	LR: 0.010000
-Evaluating Network.....
-Test set: Epoch: 7, Average loss: 0.0026, Digit Accuracy: 0.9859, Sum Accuracy: 0.1437
+<br/>Evaluating Network.....
+<br/>Test set: Epoch: 7, Average loss: 0.0026, Digit Accuracy: 0.9859, Sum Accuracy: 0.1437
 
 Training Epoch: 8 [0/59]	Loss: 2.6718	LR: 0.010000
 Training Epoch: 8 [10/59]	Loss: 2.6158	LR: 0.010000
@@ -97,8 +97,8 @@ Training Epoch: 8 [20/59]	Loss: 2.5985	LR: 0.010000
 Training Epoch: 8 [30/59]	Loss: 2.5859	LR: 0.010000
 Training Epoch: 8 [40/59]	Loss: 2.5720	LR: 0.010000
 Training Epoch: 8 [50/59]	Loss: 2.5261	LR: 0.010000
-Evaluating Network.....
-Test set: Epoch: 8, Average loss: 0.0025, Digit Accuracy: 0.9885, Sum Accuracy: 0.2216
+<br/>Evaluating Network.....
+<br/>Test set: Epoch: 8, Average loss: 0.0025, Digit Accuracy: 0.9885, Sum Accuracy: 0.2216
 
 Training Epoch: 9 [0/59]	Loss: 2.5084	LR: 0.010000
 Training Epoch: 9 [10/59]	Loss: 2.4333	LR: 0.010000
@@ -106,8 +106,8 @@ Training Epoch: 9 [20/59]	Loss: 2.3897	LR: 0.010000
 Training Epoch: 9 [30/59]	Loss: 2.3802	LR: 0.010000
 Training Epoch: 9 [40/59]	Loss: 2.3239	LR: 0.010000
 Training Epoch: 9 [50/59]	Loss: 2.2761	LR: 0.010000
-Evaluating Network.....
-Test set: Epoch: 9, Average loss: 0.0022, Digit Accuracy: 0.9854, Sum Accuracy: 0.3605
+<br/>Evaluating Network.....
+<br/>Test set: Epoch: 9, Average loss: 0.0022, Digit Accuracy: 0.9854, Sum Accuracy: 0.3605
 
 Training Epoch: 10 [0/59]	Loss: 2.2303	LR: 0.010000
 Training Epoch: 10 [10/59]	Loss: 2.1972	LR: 0.010000
@@ -115,8 +115,8 @@ Training Epoch: 10 [20/59]	Loss: 2.1696	LR: 0.010000
 Training Epoch: 10 [30/59]	Loss: 2.0980	LR: 0.010000
 Training Epoch: 10 [40/59]	Loss: 2.1071	LR: 0.010000
 Training Epoch: 10 [50/59]	Loss: 2.0483	LR: 0.010000
-Evaluating Network.....
-Test set: Epoch: 10, Average loss: 0.0020, Digit Accuracy: 0.9902, Sum Accuracy: 0.4110
+<br/>Evaluating Network.....
+<br/>Test set: Epoch: 10, Average loss: 0.0020, Digit Accuracy: 0.9902, Sum Accuracy: 0.4110
 
 Training Epoch: 11 [0/59]	Loss: 2.0070	LR: 0.010000
 Training Epoch: 11 [10/59]	Loss: 1.9880	LR: 0.010000
@@ -124,8 +124,8 @@ Training Epoch: 11 [20/59]	Loss: 1.9384	LR: 0.010000
 Training Epoch: 11 [30/59]	Loss: 1.8808	LR: 0.010000
 Training Epoch: 11 [40/59]	Loss: 1.9044	LR: 0.010000
 Training Epoch: 11 [50/59]	Loss: 1.8214	LR: 0.010000
-Evaluating Network.....
-Test set: Epoch: 11, Average loss: 0.0018, Digit Accuracy: 0.9900, Sum Accuracy: 0.5553
+<br/>Evaluating Network.....
+<br/>Test set: Epoch: 11, Average loss: 0.0018, Digit Accuracy: 0.9900, Sum Accuracy: 0.5553
 
 Training Epoch: 12 [0/59]	Loss: 1.8179	LR: 0.010000
 Training Epoch: 12 [10/59]	Loss: 1.7585	LR: 0.010000
@@ -133,8 +133,8 @@ Training Epoch: 12 [20/59]	Loss: 1.7466	LR: 0.010000
 Training Epoch: 12 [30/59]	Loss: 1.7025	LR: 0.010000
 Training Epoch: 12 [40/59]	Loss: 1.6444	LR: 0.010000
 Training Epoch: 12 [50/59]	Loss: 1.6498	LR: 0.010000
-Evaluating Network.....
-Test set: Epoch: 12, Average loss: 0.0016, Digit Accuracy: 0.9907, Sum Accuracy: 0.5490
+<br/>Evaluating Network.....
+<br/>Test set: Epoch: 12, Average loss: 0.0016, Digit Accuracy: 0.9907, Sum Accuracy: 0.5490
 
 Training Epoch: 13 [0/59]	Loss: 1.6066	LR: 0.010000
 Training Epoch: 13 [10/59]	Loss: 1.5918	LR: 0.010000
@@ -142,8 +142,8 @@ Training Epoch: 13 [20/59]	Loss: 1.5769	LR: 0.010000
 Training Epoch: 13 [30/59]	Loss: 1.5404	LR: 0.010000
 Training Epoch: 13 [40/59]	Loss: 1.5444	LR: 0.010000
 Training Epoch: 13 [50/59]	Loss: 1.5000	LR: 0.010000
-Evaluating Network.....
-Test set: Epoch: 13, Average loss: 0.0014, Digit Accuracy: 0.9898, Sum Accuracy: 0.6692
+<br/>Evaluating Network.....
+<br/>Test set: Epoch: 13, Average loss: 0.0014, Digit Accuracy: 0.9898, Sum Accuracy: 0.6692
 
 Training Epoch: 14 [0/59]	Loss: 1.4599	LR: 0.010000
 Training Epoch: 14 [10/59]	Loss: 1.4546	LR: 0.010000
@@ -151,8 +151,8 @@ Training Epoch: 14 [20/59]	Loss: 1.4094	LR: 0.010000
 Training Epoch: 14 [30/59]	Loss: 1.3780	LR: 0.010000
 Training Epoch: 14 [40/59]	Loss: 1.4038	LR: 0.010000
 Training Epoch: 14 [50/59]	Loss: 1.3300	LR: 0.010000
-Evaluating Network.....
-Test set: Epoch: 14, Average loss: 0.0013, Digit Accuracy: 0.9901, Sum Accuracy: 0.7566
+<br/>Evaluating Network.....
+<br/>Test set: Epoch: 14, Average loss: 0.0013, Digit Accuracy: 0.9901, Sum Accuracy: 0.7566
 
 Training Epoch: 15 [0/59]	Loss: 1.3446	LR: 0.010000
 Training Epoch: 15 [10/59]	Loss: 1.2909	LR: 0.010000
@@ -160,8 +160,8 @@ Training Epoch: 15 [20/59]	Loss: 1.3028	LR: 0.010000
 Training Epoch: 15 [30/59]	Loss: 1.2549	LR: 0.010000
 Training Epoch: 15 [40/59]	Loss: 1.2276	LR: 0.010000
 Training Epoch: 15 [50/59]	Loss: 1.2246	LR: 0.010000
-Evaluating Network.....
-Test set: Epoch: 15, Average loss: 0.0012, Digit Accuracy: 0.9908, Sum Accuracy: 0.8420
+<br/>Evaluating Network.....
+<br/>Test set: Epoch: 15, Average loss: 0.0012, Digit Accuracy: 0.9908, Sum Accuracy: 0.8420
 
 Training Epoch: 16 [0/59]	Loss: 1.1972	LR: 0.010000
 Training Epoch: 16 [10/59]	Loss: 1.2107	LR: 0.010000
@@ -169,8 +169,8 @@ Training Epoch: 16 [20/59]	Loss: 1.1799	LR: 0.010000
 Training Epoch: 16 [30/59]	Loss: 1.1183	LR: 0.010000
 Training Epoch: 16 [40/59]	Loss: 1.1215	LR: 0.010000
 Training Epoch: 16 [50/59]	Loss: 1.1134	LR: 0.010000
-Evaluating Network.....
-Test set: Epoch: 16, Average loss: 0.0011, Digit Accuracy: 0.9919, Sum Accuracy: 0.9192
+<br/>Evaluating Network.....
+<br/>Test set: Epoch: 16, Average loss: 0.0011, Digit Accuracy: 0.9919, Sum Accuracy: 0.9192
 
 Training Epoch: 17 [0/59]	Loss: 1.1059	LR: 0.010000
 Training Epoch: 17 [10/59]	Loss: 1.0496	LR: 0.010000
@@ -178,8 +178,8 @@ Training Epoch: 17 [20/59]	Loss: 1.0558	LR: 0.010000
 Training Epoch: 17 [30/59]	Loss: 1.0330	LR: 0.010000
 Training Epoch: 17 [40/59]	Loss: 1.0399	LR: 0.010000
 Training Epoch: 17 [50/59]	Loss: 1.0066	LR: 0.010000
-Evaluating Network.....
-Test set: Epoch: 17, Average loss: 0.0010, Digit Accuracy: 0.9909, Sum Accuracy: 0.9596
+<br/>Evaluating Network.....
+<br/>Test set: Epoch: 17, Average loss: 0.0010, Digit Accuracy: 0.9909, Sum Accuracy: 0.9596
 
 Training Epoch: 18 [0/59]	Loss: 0.9712	LR: 0.010000
 Training Epoch: 18 [10/59]	Loss: 1.0433	LR: 0.010000
@@ -187,8 +187,8 @@ Training Epoch: 18 [20/59]	Loss: 0.9864	LR: 0.010000
 Training Epoch: 18 [30/59]	Loss: 0.9565	LR: 0.010000
 Training Epoch: 18 [40/59]	Loss: 0.9560	LR: 0.010000
 Training Epoch: 18 [50/59]	Loss: 0.9275	LR: 0.010000
-Evaluating Network.....
-Test set: Epoch: 18, Average loss: 0.0009, Digit Accuracy: 0.9908, Sum Accuracy: 0.9563
+<br/>Evaluating Network.....
+<br/>Test set: Epoch: 18, Average loss: 0.0009, Digit Accuracy: 0.9908, Sum Accuracy: 0.9563
 
 Training Epoch: 19 [0/59]	Loss: 0.9788	LR: 0.010000
 Training Epoch: 19 [10/59]	Loss: 0.8501	LR: 0.010000
@@ -196,8 +196,8 @@ Training Epoch: 19 [20/59]	Loss: 0.8521	LR: 0.010000
 Training Epoch: 19 [30/59]	Loss: 0.8473	LR: 0.010000
 Training Epoch: 19 [40/59]	Loss: 0.8943	LR: 0.010000
 Training Epoch: 19 [50/59]	Loss: 0.8304	LR: 0.010000
-Evaluating Network.....
-Test set: Epoch: 19, Average loss: 0.0008, Digit Accuracy: 0.9924, Sum Accuracy: 0.9604
+<br/>Evaluating Network.....
+<br/>Test set: Epoch: 19, Average loss: 0.0008, Digit Accuracy: 0.9924, Sum Accuracy: 0.9604
 
 Training Epoch: 20 [0/59]	Loss: 0.8368	LR: 0.010000
 Training Epoch: 20 [10/59]	Loss: 0.8270	LR: 0.010000
@@ -205,7 +205,7 @@ Training Epoch: 20 [20/59]	Loss: 0.8662	LR: 0.010000
 Training Epoch: 20 [30/59]	Loss: 0.8038	LR: 0.010000
 Training Epoch: 20 [40/59]	Loss: 0.8204	LR: 0.010000
 Training Epoch: 20 [50/59]	Loss: 0.7875	LR: 0.010000
-Evaluating Network.....
-Test set: Epoch: 20, Average loss: 0.0007, Digit Accuracy: 0.9918, Sum Accuracy: 0.9624
+<br/>Evaluating Network.....
+<br/>Test set: Epoch: 20, Average loss: 0.0007, Digit Accuracy: 0.9918, Sum Accuracy: 0.9624
 
 
