@@ -10,10 +10,10 @@ The task was to build a CNN network & train a model that can classify MNIST data
  
 
 ## Final Model 
-![](resource/parameters.png)
+![](resource/parameters.PNG)
 
 ## Best Test Accuracy
-![](resource/accuracy.png)
+![](resource/accuracy.PNG)
 
 ## Approach
 The 20k parameters constraint meant that each Conv2d layer could not use more than 16 kernels.
